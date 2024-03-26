@@ -5,7 +5,7 @@
     <script>
     window.onload = function() {
         window.open();
-        window.close('https://simba.softr.app/404');
+        window.close(https://simba.softr.app/404);
     };
     </script>
 </head>
